@@ -2,16 +2,16 @@
 
 李慧洁的个人空间，支持中英文浏览、互动小镇、驾驶探索与科技文章。
 
-在线展示：[Huijie's Space](https://huijieiris.github.io/hj/) · [中文主页](https://huijieiris.github.io/hj/home/) · [English](https://huijieiris.github.io/hj/en/home/)
+在线展示：[Huijie's Space](https://tonghuyen3234y-del.github.io/hj/) · [中文主页](https://tonghuyen3234y-del.github.io/hj/home/) · [English](https://tonghuyen3234y-del.github.io/hj/en/home/)
 
-源码仓库：[hj](https://github.com/HuijieIris/hj)
+源码仓库：[hj](https://github.com/tonghuyen3234y-del/hj)
 
 ## 本地打开
 
 需要 Node.js 18 或更新版本。没有需要安装的 npm 依赖。
 
 ```sh
-git clone https://github.com/HuijieIris/hj.git huijie-space
+git clone https://github.com/tonghuyen3234y-del/hj.git huijie-space
 cd huijie-space
 npm run dev
 ```
